@@ -1,1 +1,1 @@
-pwsh -c {"Hello, World! from PowerShell {0}" -f $PSVersionTable.PSVersion}
+pwsh -f hello.ps1
