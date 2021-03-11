@@ -85,3 +85,4 @@ RUN apk add --no-cache \
           }"
 
 CMD [ "pwsh" ]
+ENTRYPOINT ["/entrypoint.ps1"]
